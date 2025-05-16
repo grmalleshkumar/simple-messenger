@@ -1,0 +1,12 @@
+body {
+  padding: 10px;
+}
+
+.messengerContainer {
+  display: flex;
+  height: 100vh;
+  justify-content: space-evenly;
+  border: 3px solid #ccc;
+  border-radius: 5px;
+  overflow: scroll;
+}

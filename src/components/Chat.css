@@ -1,0 +1,35 @@
+.chatContent {
+  width: 75%;
+  padding: 20px;
+}
+
+.inputContainer {
+  height: 15%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.inputContainer input {
+  width: 90%;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.inputContainer button {
+  width: 10%;
+  height: 35px;
+}
+
+.sender {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message {
+  color: #333;
+}
+
+.chatData {
+  margin-bottom: 5px;
+}
